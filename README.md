@@ -45,7 +45,7 @@ Hotel Reservation System (HRS) is a Java-based desktop application developed usi
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/Afzaal-Akhtar/hotel-reservation-system.git>
    ```
 
 2. Open the project in NetBeans.
